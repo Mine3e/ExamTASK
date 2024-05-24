@@ -1,0 +1,24 @@
+﻿@using Exam.Core.Models
+@model Member
+<div class="container">
+    <div class="row">
+        <form method="post" enctype="multipart/form-data">
+            <div class="container">
+                <label asp-for="Name"> </label>
+                <input asp-for="Name" />
+                <span asp-validation-for="Name"> </span>
+            </div>
+            <div class="container">
+                <label asp-for="Title"> </label>
+                <input asp-for="Title" />
+                <span asp-validation-for="Title"> </span>
+            </div>
+            <div class="container">
+                <label asp-for="ImageFile"> </label>
+                <input asp-for="ImageFile" />
+                <span asp-validation-for="ImageFile"> </span>
+            </div>
+            <button type="submit"> Submit</button>
+        </form>
+    </div>
+</div>

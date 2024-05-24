@@ -1,0 +1,41 @@
+﻿@using Exam.Core.Models
+@model  List<Member>
+@{
+    int count = 0;
+}
+<div class="container">
+    <table class="table">
+        <h1>
+            Team Members 
+        </h1>
+        <a class="btn btn-primary" asp-action="Create" asp-controller="Member">Create</a>
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Title</th>
+                <th scope="col">Image</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                count++;
+                <tr>
+                    <th scope="row">@count</th>
+                    <td>@item.Name</td>
+                    <td>@item.Title</td>
+                    <td>
+                        <div width:100px>
+                            <img src="~/Upload/Member/@item.ImageUrl" />
+                        </div>
+                    </td>
+                    <td>
+                        <a class="btn btn-warning" asp-action="Update" asp-controller="Member" asp-route-id="@item.Id"> Update</a>
+                        <a class="btn btn-danger" asp-action="Delete" asp-controller="Member" asp-route-id="@item.Id"> Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

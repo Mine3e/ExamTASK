@@ -1,0 +1,12 @@
+C:\Users\II novbe\source\repos\Exam.Core\bin\Debug\net6.0\Exam.Core.deps.json
+C:\Users\II novbe\source\repos\Exam.Core\bin\Debug\net6.0\Exam.Core.dll
+C:\Users\II novbe\source\repos\Exam.Core\bin\Debug\net6.0\Exam.Core.pdb
+C:\Users\II novbe\source\repos\Exam.Core\obj\Debug\net6.0\Exam.Core.csproj.AssemblyReference.cache
+C:\Users\II novbe\source\repos\Exam.Core\obj\Debug\net6.0\Exam.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\source\repos\Exam.Core\obj\Debug\net6.0\Exam.Core.AssemblyInfoInputs.cache
+C:\Users\II novbe\source\repos\Exam.Core\obj\Debug\net6.0\Exam.Core.AssemblyInfo.cs
+C:\Users\II novbe\source\repos\Exam.Core\obj\Debug\net6.0\Exam.Core.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\source\repos\Exam.Core\obj\Debug\net6.0\Exam.Core.dll
+C:\Users\II novbe\source\repos\Exam.Core\obj\Debug\net6.0\refint\Exam.Core.dll
+C:\Users\II novbe\source\repos\Exam.Core\obj\Debug\net6.0\Exam.Core.pdb
+C:\Users\II novbe\source\repos\Exam.Core\obj\Debug\net6.0\ref\Exam.Core.dll

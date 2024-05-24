@@ -1,0 +1,14 @@
+﻿@using Exam.Core.Models
+@model Member
+<div class="container">
+    <form method="post" asp-action="DeleteMember" class="card" style="width: 18rem;">
+        <img src="~/Upload/Member/@Model.ImageUrl" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">@Model.Name</h5>
+            <p class="card-text">@Model.Title</p>
+            <input asp-for="@Model.Id" hidden value="@Model.Id" />
+            <a class="btn btn-primary" asp-action="Index" asp-controller="Member"> Go back</a>
+            <button type="submit"> Delete</button>
+        </div>
+    </form>
+</div>

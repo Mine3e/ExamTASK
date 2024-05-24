@@ -1,0 +1,17 @@
+C:\Users\II novbe\source\repos\Exam.Data\bin\Debug\net6.0\Exam.Data.deps.json
+C:\Users\II novbe\source\repos\Exam.Data\bin\Debug\net6.0\Exam.Data.runtimeconfig.json
+C:\Users\II novbe\source\repos\Exam.Data\bin\Debug\net6.0\Exam.Data.dll
+C:\Users\II novbe\source\repos\Exam.Data\bin\Debug\net6.0\Exam.Data.pdb
+C:\Users\II novbe\source\repos\Exam.Data\bin\Debug\net6.0\Exam.Core.dll
+C:\Users\II novbe\source\repos\Exam.Data\bin\Debug\net6.0\Exam.Core.pdb
+C:\Users\II novbe\source\repos\Exam.Data\obj\Debug\net6.0\Exam.Data.csproj.AssemblyReference.cache
+C:\Users\II novbe\source\repos\Exam.Data\obj\Debug\net6.0\Exam.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\source\repos\Exam.Data\obj\Debug\net6.0\Exam.Data.AssemblyInfoInputs.cache
+C:\Users\II novbe\source\repos\Exam.Data\obj\Debug\net6.0\Exam.Data.AssemblyInfo.cs
+C:\Users\II novbe\source\repos\Exam.Data\obj\Debug\net6.0\Exam.Data.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\source\repos\Exam.Data\obj\Debug\net6.0\Exam.Data.csproj.CopyComplete
+C:\Users\II novbe\source\repos\Exam.Data\obj\Debug\net6.0\Exam.Data.dll
+C:\Users\II novbe\source\repos\Exam.Data\obj\Debug\net6.0\refint\Exam.Data.dll
+C:\Users\II novbe\source\repos\Exam.Data\obj\Debug\net6.0\Exam.Data.pdb
+C:\Users\II novbe\source\repos\Exam.Data\obj\Debug\net6.0\Exam.Data.genruntimeconfig.cache
+C:\Users\II novbe\source\repos\Exam.Data\obj\Debug\net6.0\ref\Exam.Data.dll

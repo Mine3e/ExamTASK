@@ -1,0 +1,5 @@
+Name;Mine
+Surname: Memmedli
+Username: Mine3e
+Email:  mine@gmail.com
+Password:Salam123@
